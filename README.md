@@ -1,40 +1,31 @@
-# Hi there 👋 I'm Chaimek
-<!--
-**Chaimek/Chaimek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🦄 Hi, I'm Chaimek 
 
-Here are some ideas to get you started:
+🚀 **Full-Stack Alchemist** | ☄️ **Open Source Explorer** | 🧩 **Problem Solver**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/-@chaimek-181717?style=flat&logo=github&logoColor=white)](https://github.com/chaimek)
+[![Twitter](https://img.shields.io/badge/-@chaimek-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Blog](https://img.shields.io/badge/-Blog-FF6F61?style=flat&logo=medium&logoColor=white)](https://your.blog.url)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaimek)](https://github.com/Chaimek)
+## ⚡️ Dynamic Duo Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaimek&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimek&layout=compact&theme=radical&hide_border=true&exclude_repo=deprecated-project" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimek)](https://github.com/Chaimek)
+## 🧠 Knowledge Matrix
+- 🔭 **Crafting Magic With:** `React` | `Node.js` | `GraphQL`  
+- 🌱 **Leveling Up In:** `Go` | `WebAssembly` | `Blockchain`
+- 🛠️ **Dev Toolbox:** VS Code | Docker | Kubernetes | GitLab CI
+- 💡 **Passion Projects:** CLI Tools | Developer Experience | Automation
+- 🤔 **Exploring:** Rust宏编程 | 分布式系统设计 | 算法可视化
+- ✨ **Fun Fact:** 能用三种不同编程语言写斐波那契数列！
 
-
-🚀 **Full-Stack Developer** | ☁️ **Cloud Enthusiast** | 🧠 **AI Explorer**
-
-
-## 🛠 Tech Stack
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimek&layout=compact&theme=dark&hide_border=true&hide=html,css)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaimek&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-- 🔭 Working on: **Next.js** | **TypeScript** | **AWS**
-- 🌱 Learning: **Rust** | **Kubernetes** | **LLM**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about: **Web Development** | **DevOps** | **Machine Learning**
-- ⚡ Fun fact: **I ❤️ coffee more than code!**
-
-## �️ Weekly Development Breakdown
-<!-- Replace with your own wakatime stats -->
-[![wakatime](https://wakatime.com/badge/user/xxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx.svg)](https://wakatime.com/@Chaimek)
-
+## 📮 Connect With Me
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/chaimek">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
